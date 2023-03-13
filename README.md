@@ -17,6 +17,7 @@
 
 <hr>
 <h2>What Works:</h2>
+
 - ✅ Intel UHD Graphics 630
 
 - ✅ Audio
@@ -30,6 +31,13 @@
 - ✅ USB ports
 
 - ✅ Sleep/Wake
+
+<hr>
+
+<h2>What Doesn't Work:</h2>
+
+- ❌ Onboard iGPU HDMI port needs patching
+
 <hr>
 
 <h4>Everything Included in the EFI except SMBIOS Data & Serial Number in config.plist</h4>
