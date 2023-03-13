@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/eevniel/Hackintosh-MSI-MPG-Z490-GAMING-PLUS-I7-10700K-INTEL-UHD-630-iGPU/main/Info.png">
+
 <hr>
 <h2>Tested Machine Specifications:</h2>
 
