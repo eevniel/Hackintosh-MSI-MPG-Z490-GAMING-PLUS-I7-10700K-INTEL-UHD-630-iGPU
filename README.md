@@ -10,11 +10,17 @@
 <hr>
 <h2>What Works:</h2>
 - ✅ Intel UHD Graphics 630
+
 - ✅ Audio
+
 - ✅ Microphone
+
 - ✅ Ethernet
+
 - ✅ CPU power management
+
 - ✅ USB ports
+
 - ✅ Sleep/Wake
 <hr>
 
