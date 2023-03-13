@@ -1,2 +1,22 @@
-# Hackintosh-MSI-MPG-Z490-GAMING-PLUS-I7-10700K-INTEL-UHD-630-iGPU
-Successful fully working hackintosh monterey &amp; ventura for Comet Lake MSI Z490 mpg gaming plus board
+<hr>
+<h2>Tested Machine Specifications:</h2>
+- MOBO: MSI MPG Z490 GAMING PLUS
+- CPU: Intel Core i7-10700K 3.8Ghz 8C/16T
+- GPU: Intel UHD Graphics 630 with DP @ 144Hz
+- Audio: Realtek® ALC1200-VD1
+- Ethernet: Realtek® RTL8125B-CG 2.5G LAN Controller
+- MacOS Version: Monterey 12.6.3 (Should work on Ventura as well)
+- OpenCore Version: 0.8.8
+<hr>
+<h2>What Works:</h2>
+- ✅ Intel UHD Graphics 630
+- ✅ Audio
+- ✅ Microphone
+- ✅ Ethernet
+- ✅ CPU power management
+- ✅ USB ports
+- ✅ Sleep/Wake
+<hr>
+
+<h4>Everything Included in the EFI except SMBIOS Data & Serial Number in config.plist</h4>
+
