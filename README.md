@@ -11,7 +11,7 @@
 
 - Ethernet: Realtek® RTL8125B-CG 2.5G LAN Controller
 
-- MacOS Version: Monterey 12.6.3 (Should work on Ventura as well)
+- MacOS Version: Tested on Monterey 12.6.3 & Ventura 13.2.1
 
 - OpenCore Version: 0.8.8
 
