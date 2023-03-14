@@ -36,6 +36,8 @@
 
 - ✅ Sleep/Wake
 
+- ✅ Onboard DisplayPort
+
 <hr>
 
 <h2>What Doesn't Work:</h2>
