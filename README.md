@@ -17,7 +17,7 @@
 
 - MacOS Version: Tested on Monterey 12.6.3 & Ventura 13.2.1
 
-- OpenCore Version: 0.8.8
+- OpenCore Version: 0.9.6
 
 <hr>
 <h2>What Works:</h2>
